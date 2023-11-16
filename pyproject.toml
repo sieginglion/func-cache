@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "func-cache"
+name = "general-cache"
 version = "0.1.0"
 description = ""
 authors = ["sieginglion <sieginglion@gmail.com>"]
 readme = "README.md"
-packages = [{include = "func_cache"}]
+packages = [{ include = "general_cache" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"

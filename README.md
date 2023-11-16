@@ -1,5 +1,5 @@
 ```
-from func_cache import cached
+from general_cache import cached
 
 @cached(10)
 def f():
